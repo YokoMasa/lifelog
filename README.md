@@ -1,3 +1,6 @@
+## LP Url
+[https://tuzuriba.netlify.app/](https://tuzuriba.netlify.app/)
+
 ## Set up
 ```bash
 nvm install $(cat .nvmrc)
