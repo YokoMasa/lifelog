@@ -3,9 +3,6 @@
   - You feel sad / lonely when you see lots of those "beautiful" posts of other people
 - we just consume random contents without thinking anything, gaining anything, 
 
-## only text
-
-
 ## Inception deck
 ### The Elevator Pitch
 - For
@@ -33,3 +30,4 @@
   - Enables you to log your thoughts and feeling
 
 - Slogan that captures the spirit of this
+  - 綴る、共感する、知る
