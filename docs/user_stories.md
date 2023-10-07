@@ -1,5 +1,11 @@
-- As a user, I want to login to the platform, so that I can manage my posts and see follower's posts
-- As a user, I want to post my dayly life log, so that I can log my thoughts and feelings.
+- As a user, I want to login to the platform, so that I can manage my posts and see other people's posts
+- As a user, I want to show a description of myself, so that other users can learn about me.
+- As a user, I want to see descriptions of other people, so that I can learn about those people.
+- As a user, I want to post my daily life log, so that I can log my thoughts and feelings.
+- As a user, I want to read random other people's life log, so that I can enjoy and be motivated.
+- As a user, I want to read specific user's life logs, so that I can know the thoughts of the one I'm interested in.
+- As a user, I want to know how many people have reacted to my log, so that I can fulfill my desire for recognition.
+- As a user, I want to follow some people, so that I can follow people's life logs who I'm interested in.
+- As a user, I want to search logs, so that I can enjoy specific kind of logs.
+- As a user, I want to have logs displayed in less than 3 seconds, so that I don't have to waste my time.
 - As a user, I want to look back my life log, so that I can recall what I was doing and thinking in the past.
-- As a user, I want to read other people's life log, so that I can enjoy and be motivated.
-
