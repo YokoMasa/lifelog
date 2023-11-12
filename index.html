@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
   <head>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-VH11DQSWE6"></script>
@@ -12,6 +12,7 @@
         gtag('config', 'G-VH11DQSWE6');
       }
     </script>
+    <script type="module" src="/index.ts"></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -29,10 +30,16 @@
         日常つづり場
       </h1>
       <a href="https://tuzuriba.com/" class="underline sm:text-lg mt-12">始める→</a>
+
+      <a class="absolute bottom-8 text-center transition-opacity" id="summary-pointer" href="#summary">
+        <svg xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 100 100" width="32">
+          <path d="M 0 65 L 50 100 L 100 65" fill="none" stroke-width="2" class="stroke-black"/>
+        </svg>
+      </a>
     </div>
 
     <div class="text-center px-4">
-      <h2 class="font-bold text-xl sm:text-2xl">- 日常つづり場とは -</h2>
+      <h2 class="text-xl sm:text-2xl" id="summary">- 日常つづり場とは -</h2>
       <div class="mt-4">
         <p>
           日常を日記のようにつづり、今同じ時間を生きている人たちと共有する場所です。
@@ -50,6 +57,31 @@
       </div>
     </div>
 
-    <br>
+    <div class="text-center px-4 my-8">
+      <h2 class="text-xl sm:text-2xl">- 思い -</h2>
+      <div class="mt-4">
+        <p>
+          きっかけは、SNSを使った後に「疲れたな」「時間の無駄だったな」と思ったことでした。
+        </p>
+
+        <br>
+        <p>
+          SNSは良い情報やつながりが簡単に得られる反面、<br>
+          <span class="inline-block">嫌な広告、</span>
+          <span class="inline-block">バズりたい下心のあふれる投稿、</span>
+          <span class="inline-block">不毛な言い争い、</span>
+          <span class="inline-block">美化された投稿、</span>
+          <span class="inline-block">ボットによる人間味のない投稿など、</span>
+          <span class="inline-block">見ていて良い気持ちにならないものであふれています。</span>
+        </p>
+
+        <br>
+        <p>
+          そのようなものから解放された<span class="inline-block">「温かく居心地の良いネット空間」</span>を作りたい、
+          <br>
+          という思いから日常つづり場は生まれました。
+        </p>
+      </div>
+    </div>
   </body>
 </html>
