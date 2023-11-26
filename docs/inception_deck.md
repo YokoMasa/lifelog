@@ -31,3 +31,13 @@
 
 - Slogan that captures the spirit of this
   - 綴る、共感する、知る
+
+### Value Proposition
+- For XXX (target customers - Your minimum viable segment - MVS)
+  - with XXX (BLAC problem or need)
+  - that is XXX (4U)
+- Who are dissatisfied with XXX (the current Unworkable and Underserved alternative)
+- Our product is a XXX (3D new product - MVP)
+- That provides XXX (compelling problem solving capability)
+  - that overcomes XXX (switching costs Gain / Pain ratio > 10x)
+- Unlike XXX
