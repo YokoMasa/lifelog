@@ -41,3 +41,13 @@
 - That provides XXX (compelling problem solving capability)
   - that overcomes XXX (switching costs Gain / Pain ratio > 10x)
 - Unlike XXX
+
+
+#### definitions
+Is it BLAC (Blatant, Latent, Aspirational, Critical) and does it address a WHITE space in the market, allowing you to capitalize on an open area of opportunity?
+
+EVALUATE whether your breakthrough is unique and compelling
+
+After you determined the problem you’re solving and validated its criticality, ask yourself: What is unique and compelling about your breakthrough?
+
+A useful approach is to think of your breakthrough in the context of the 3Ds: What unique combination of (D)iscontinuous innovation, (D)efensible technology, and (D)isruptive business model are you bringing to bear and what makes it truly compelling — not just to you and your colleagues, but to your most skeptical customer?
