@@ -32,10 +32,10 @@
 - Slogan that captures the spirit of this
   - 綴る、共感する、知る
 
-### Value Proposition
+### Value Proposition template
 - For XXX (target customers - Your minimum viable segment - MVS)
   - with XXX (BLAC problem or need)
-  - that is XXX (4U)
+  - that is XXX (4U,課題の特性)
 - Who are dissatisfied with XXX (the current Unworkable and Underserved alternative)
 - Our product is a XXX (3D new product - MVP)
 - That provides XXX (compelling problem solving capability)
@@ -51,3 +51,22 @@ EVALUATE whether your breakthrough is unique and compelling
 After you determined the problem you’re solving and validated its criticality, ask yourself: What is unique and compelling about your breakthrough?
 
 A useful approach is to think of your breakthrough in the context of the 3Ds: What unique combination of (D)iscontinuous innovation, (D)efensible technology, and (D)isruptive business model are you bringing to bear and what makes it truly compelling — not just to you and your colleagues, but to your most skeptical customer?
+
+### Value Proposition
+- For 20代以降のすべての人 (target customers - Your minimum viable segment - MVS)
+  - with  (BLAC problem or need)
+  - that is XXX (4U)
+- Who are dissatisfied with XXX (the current Unworkable and Underserved alternative)
+- Our product is a XXX (3D new product - MVP)
+- That provides XXX (compelling problem solving capability)
+  - that overcomes XXX (switching costs Gain / Pain ratio > 10x)
+- Unlike XXX
+
+
+
+- 既存のSNSを使うことに疲れを感じている（なんで？）
+- 他人の日常生活が見たい
+  →なんで？
+
+あくまで「他人の日常がみられる場所」「居心地のよいインターネット」。
+投稿するインセンティブを与えるには・・？
