@@ -70,3 +70,11 @@ A useful approach is to think of your breakthrough in the context of the 3Ds: Wh
 
 あくまで「他人の日常がみられる場所」「居心地のよいインターネット」。
 投稿するインセンティブを与えるには・・？
+
+
+## concept refined
+- "日常"が続いたものが人生
+- そんな人生の大切な一ページを言葉にして残してみませんか
+- 楽しいことも辛いことも、後から見返したら思い出
+
+- そんなリアルタイムな人生が行き交う場
